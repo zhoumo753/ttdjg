@@ -37,6 +37,18 @@ ovKiu5lDgPgM_LGwvEpF6PCcdHSs
 
 ordnQ580BzwAhCheK-0E7Nw-FlY8
 
+git init
+git add .
+
+git config --global user.email ""
+git config --global user.name ""
+
+git commit -m "first commit"
+
+git remote add origin https://自己的仓库url地址 （自己去建立一个仓库路径）
+git push -u origin master
+
+
 
 
 		
