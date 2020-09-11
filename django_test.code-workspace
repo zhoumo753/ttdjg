@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Lib\\site-packages\\simpleui"
+		},
+		{
+			"path": "..\\..\\Lib\\site-packages\\django"
+		}
+	],
+	"settings": {}
+}

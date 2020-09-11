@@ -1,0 +1,44 @@
+1.建工程 django-admin startproject testdj
+2.建应用 python manage.py startapp my_app
+3.运行  python manage.py runserver
+
+
+python manage.py makemigrations
+python manage.py migrate
+
+
+登录密码weekend123
+
+使用现在比较流行的前端框架Bootstrap，外加自己写的一点点css来进行美化！
+一般都是下载框架，导入，引用，美化。
+		
+https://getbootstrap.com/docs/4.1/getting-started/download/	
+https://cdn.bootcss.com/jquery/3.4.1/jquery.js
+https://cdn.bootcss.com/popper.js/1.15.0/umd/popper.js
+
+
+python manage.py collectstatic
+
+//simpleui 文档说明
+https://simpleui.88cto.com/docs/simpleui/QUICK.html#%E7%9B%AE%E5%BD%95
+
+
+
+python manage.py makemessages -l zh_Hans
+python manage.py compilemessages
+
+
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
+
+
+ovKiu5lDgPgM_LGwvEpF6PCcdHSs
+
+ordnQ580BzwAhCheK-0E7Nw-FlY8
+
+
+
+		
+		
+		
